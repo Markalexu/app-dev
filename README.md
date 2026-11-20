@@ -52,3 +52,6 @@ def is_variant(timeline):
 [Watch the official trailer on YouTube](https://www.youtube.com/results?search_query=loki+official+trailer)
 
 ~~Boring shows~~ Only the best here!
+
+## Fun Fact
+Miss Minutes, the TVA's cheerful animated clock mascot, explains the rules of time to new arrivals.
